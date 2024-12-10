@@ -4,7 +4,6 @@ import "react-toastify/dist/ReactToastify.css";
 
 import Cart from "src/pages/Cart";
 import Home from "src/pages/Products";
-import Checkout from "src/pages/Checkout";
 import Layout from "src/layout";
 
 import OrderConfirmation from "src/pages/OrderConfirmation";
@@ -18,7 +17,6 @@ const App = () => {
           <Route path="cart" element={<Cart />} />
         </Route>
         <Route path="/order/confirmation" element={<OrderConfirmation />} />
-        <Route path="/checkout/:id" element={<Checkout />} />
       </Routes>
       <ToastContainer position="bottom-right" />
     </BrowserRouter>
