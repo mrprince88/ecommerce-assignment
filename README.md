@@ -24,3 +24,7 @@ cd frontend && pnpm install
 pnpm dev
 ```
 
+
+https://github.com/user-attachments/assets/c5c1df5c-c1be-4a43-b7db-f533e9b285fe
+
+
