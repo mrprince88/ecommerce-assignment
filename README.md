@@ -14,6 +14,8 @@ The backend consists of 2 services:
 1. Product Service - keeps track of products
 2. Order Service - keeps track of orders, discount codes and order stats.
 
+The discount codes can be applied for every 3rd order here.
+
 
 ## Frontend
 
